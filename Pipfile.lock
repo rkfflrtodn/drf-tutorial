@@ -1,0 +1,53 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "1e3562fc0de67ebb50c6c4918bd19632090f5483251b8c1ff65618a5a567a123"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "django": {
+            "hashes": [
+                "sha256:acdcc1f61fdb0a0c82a1d3bf1879a414e7732ea894a7632af7f6d66ec7ab5bb3",
+                "sha256:efbcad7ebb47daafbcead109b38a5bd519a3c3cd92c6ed0f691ff97fcdd16b45"
+            ],
+            "index": "pypi",
+            "version": "==2.1.2"
+        },
+        "djangorestframework": {
+            "hashes": [
+                "sha256:607865b0bb1598b153793892101d881466bd5a991de12bd6229abb18b1c86136",
+                "sha256:63f76cbe1e7d12b94c357d7e54401103b2e52aef0f7c1650d6c820ad708776e5"
+            ],
+            "index": "pypi",
+            "version": "==3.9.0"
+        },
+        "pygments": {
+            "hashes": [
+                "sha256:78f3f434bcc5d6ee09020f92ba487f95ba50f1e3ef83ae96b9d5ffa1bab25c5d",
+                "sha256:dbae1046def0efb574852fab9e90209b23f556367b5a320c0bcb871c77c3e8cc"
+            ],
+            "index": "pypi",
+            "version": "==2.2.0"
+        },
+        "pytz": {
+            "hashes": [
+                "sha256:a061aa0a9e06881eb8b3b2b43f05b9439d6583c206d0a6c340ff72a7b6669053",
+                "sha256:ffb9ef1de172603304d9d2819af6f5ece76f2e85ec10692a524dd876e72bf277"
+            ],
+            "index": "pypi",
+            "version": "==2018.5"
+        }
+    },
+    "develop": {}
+}
